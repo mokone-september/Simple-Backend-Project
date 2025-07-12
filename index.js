@@ -25,7 +25,7 @@ let posts = [
         twitter: 'https://twitter.com',
         youtube: 'https://www.youtube.com',
         linkedin: 'https://www.linkedin.com/in/mokoneseptember',
-        tweet: 'In the dance of life, find your rhythm and let your heart lead the way!',
+        tweet: 'For Code!',
         src: 'user-soild.svg',
     },
     
