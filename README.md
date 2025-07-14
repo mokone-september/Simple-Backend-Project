@@ -55,4 +55,4 @@ This project is licensed under the ISC License. See the [LICENSE](./LICENSE) fil
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to submit a Pull Request
