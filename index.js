@@ -21,11 +21,11 @@ let posts = [
         id: uuid.v4(),
         name: 'Thabiso Kenneth Mokone',
         email: 'mokoneseptember@gmail.com',
-        github: 'https://github.com',
+        github: 'https://github.com/mokonesepember',
         twitter: 'https://twitter.com',
         youtube: 'https://www.youtube.com',
         linkedin: 'https://www.linkedin.com/in/mokoneseptember',
-        tweet: 'For Code!',
+        tweet: 'For the Code!',
         src: 'user-soild.svg',
     },
     
